@@ -1,0 +1,8 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:stud="http://www.his.de/ws/StudentService">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <stud:searchByRegistrationnumber>
+         <stud:number>20002708</stud:number>
+      </stud:searchByRegistrationnumber>
+   </soapenv:Body>
+</soapenv:Envelope>
